@@ -16,6 +16,13 @@ Users can bookmark a job by clicking on the icon to the top right corner of the 
 ![Job Listing App Screenshot](./screenshots/bookmarks.png)
 
 
+## Detail description of a job
+If you click on a card you will see the following description of that page.
+![Todo List App Screenshot](./screenshots/detail1.png)
+
+![Todo List App Screenshot](./screenshots/detail2.png)
+
+
 ## Unit tests and e2e test
 Unit test to validate the functionality of bookmarking a job position and ensuring that the toggle button works as expected and testing to validate the rendering of the job posting cardhas been written using jest.
 
